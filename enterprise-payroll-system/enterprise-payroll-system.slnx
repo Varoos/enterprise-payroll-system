@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Enterprise.Payroll.Application/Enterprise.Payroll.Application.csproj" />
+  <Project Path="../Enterprise.Payroll.Domain/Enterprise.Payroll.Domain.csproj" />
+  <Project Path="../Enterprise.Payroll.Infrastructure/Enterprise.Payroll.Infrastructure.csproj" />
+  <Project Path="enterprise-payroll-system.csproj" />
+</Solution>
