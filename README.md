@@ -43,6 +43,13 @@ Swagger / OpenAPI
 
 Clean Architecture
 
+
+React (Frontend)
+   ↓ HTTP (Axios / Fetch)
+.NET Web API (Backend)
+   ↓ EF Core
+PostgreSQL
+
 Purpose
 
 Built as a learning + portfolio project to practice enterprise backend patterns while integrating modern authentication and database design concepts.
